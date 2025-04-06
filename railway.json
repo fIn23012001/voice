@@ -1,7 +1,0 @@
-{
-  "build": {
-    "env": {
-      "TOKEN": "your-telegram-token"
-    }
-  }
-}
